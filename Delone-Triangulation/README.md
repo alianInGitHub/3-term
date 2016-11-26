@@ -1,5 +1,5 @@
 # Delone-Triangulation
-projeck 2 - task 11
+project 2 - task 11
 
 Триангуляция Делоне области на основе заданного набора точек.
 
